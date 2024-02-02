@@ -1,0 +1,37 @@
+h1{ 
+    font-size: 50px;
+    color: limegreen;
+    -webkit-text-stroke-color: white;
+    stroke-width: 10%;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+ p{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+ }
+
+ button{
+    padding:0px;
+    border: none;
+    background: none:
+
+ }
+
+ img{
+    background-color: black;
+ }
+
+
+.container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/*
+.wrapper {
+    display: table-cell;
+    vertical-align: middle;
+}
+*/
